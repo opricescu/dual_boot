@@ -11,3 +11,5 @@ What he does:
 It opens the diskpart, lists the disks, helps you map your drive where the boot file is and if you did not change anything when you installed the grub manager, it’s backup your current boot file of windows and replaces it whit the grub manager file. After it finishes, it removes the driver.
 
 Beware - an administrator instance is required and the changes are not reversible
+
+Please use it only if you understand what it is doing, I’m not assume the loss of data or other changes that the system may suffer in case of running this script without understanding what it does.
